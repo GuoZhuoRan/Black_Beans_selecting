@@ -1,2 +1,2 @@
-# Black_Beans_seleccting
+# Black_Beans_selecting
 Select tiny objects through yolov8
